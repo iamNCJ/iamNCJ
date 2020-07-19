@@ -3,6 +3,7 @@
 - 😄 Welcome to my GitHub profile!
 - 🌱 I’m currently learning Computer Science and Technology in Zhejiang University.
 
+---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=iamNCJ&show_icons=true&hide_border=true)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamNCJ)
