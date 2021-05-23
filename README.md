@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm NCJ! 👋
 
 - 😄 Welcome to my GitHub profile!
 - 🌱 I’m currently learning Computer Science and Technology in Zhejiang University.
