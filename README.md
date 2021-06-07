@@ -20,4 +20,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamncj&" alt="iamncj" /></p>
 
 <!--START_SECTION:waka-->
+```text
+Other        31 hrs 11 mins  ███████████████▒░░░░░░░░░   61.95 % 
+JavaScript   15 hrs 21 mins  ███████▓░░░░░░░░░░░░░░░░░   30.51 % 
+Rust         1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+C            53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+```
 <!--END_SECTION:waka-->
