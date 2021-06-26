@@ -25,6 +25,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       35 mins         █████████████████████████   99.98 % 
+TeX          2 mins          ████████████████████████▓   99.03 % 
 ```
 <!--END_SECTION:waka-->
