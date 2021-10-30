@@ -25,6 +25,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+INI        1 min           ███████████████░░░░░░░░░░   59.49 % 
 ```
 <!--END_SECTION:waka-->
