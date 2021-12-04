@@ -25,9 +25,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python             8 hrs 46 mins   ████████████████████████░   96.37 % 
-Markdown           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-GitIgnore file     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python             8 hrs 46 mins   ████████████████████████▓   98.15 % 
+GitIgnore file     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 YAML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 requirements.txt   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
