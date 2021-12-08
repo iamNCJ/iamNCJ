@@ -25,8 +25,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python             7 hrs 25 mins   ████████████████████████▓   98.01 % 
-GitIgnore file     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-YAML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python             5 hrs 1 min     ████████████████████████▒   97.59 % 
+GitIgnore file     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
