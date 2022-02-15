@@ -25,10 +25,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python             15 hrs 17 mins  ██████████████████████▒░░   89.90 % 
-Markdown           1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Docker             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-GitIgnore file     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-requirements.txt   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python       9 hrs 55 mins   █████████████▒░░░░░░░░░░░   53.86 % 
+JavaScript   6 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   37.81 % 
+Markdown     1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+PythonStub   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Text         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
