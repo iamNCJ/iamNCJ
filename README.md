@@ -31,7 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#       4 mins          █████████████▓░░░░░░░░░░░   54.69 %
+JSON     3 mins          ███████████░░░░░░░░░░░░░░   43.42 %
+Docker   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
