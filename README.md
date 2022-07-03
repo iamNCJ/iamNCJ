@@ -31,8 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     36 mins         █████████████████████████   99.98 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown     1 hr 17 mins    ██████████████████████▓░░   90.58 %
+YAML         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
