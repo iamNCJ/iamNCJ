@@ -31,11 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   42 mins         ███████████████░░░░░░░░░░   60.18 %
-MDX          8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-JavaScript   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-C#           6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
