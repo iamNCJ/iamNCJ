@@ -7,11 +7,12 @@
 
 - ⚡ My research interests include **Computer Graphics and 3D Vision**, specifically, 3D object geometry and appearance modeling and generation. I'm also interested in full-stack web development.
 
-<h3 align="left">Connect with me</h3>
+- 🚀 Learn more about me, including publications & selected projects!
+  - [ncj.wiki](https://www.ncj.wiki)
+  - [chong-zeng.com](https://www.chong-zeng.com)
 
-- [ncj.wiki](https://www.ncj.wiki)
-- [chong-zeng.com](https://www.chong-zeng.com)
-- [RSS](https://blog.ncj.wiki/rss.xml)
+- 📖 Read my [blogs](https://blog.ncj.wiki/)!
+  - [RSS](https://blog.ncj.wiki/rss.xml)
 
 <!-- <p align="left">
 <a href="https://blog.ncj.wiki/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.ncj.wiki/rss.xml" height="30" width="40" /></a> -->
