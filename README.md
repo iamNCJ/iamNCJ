@@ -3,9 +3,9 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamNCJ)
 
-- 🌱 I’m currently learning **Computer Science and Technology in Zhejiang University.**
+- 🌱 I’m currently a master student in **Zhejiang University**, majoring **Computer Science and Technology**.
 
-- ⚡ My main interests are **Computer Vision, Computer Graphics, Deep Learning, Full-Stack Web Development and High Performance Computing.**
+- ⚡ My research interests include **Computer Graphics and 3D Vision**, specifically, 3D object geometry and appearance modeling and generation. I'm also interested in full-stack web development.
 
 <h3 align="left">Connect with me</h3>
 
