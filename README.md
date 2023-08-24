@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently a master student in **Zhejiang University**, majoring **Computer Science and Technology**.
 
-- ⚡ My research interests include **Computer Graphics and 3D Vision**, specifically, 3D object geometry and appearance modeling and generation. I'm also interested in full-stack web development.
+- ⚡ My research interests include **Computer Graphics and 3D Vision**, specifically, 3D object geometry and appearance modeling and generation.
 
 - 🚀 Learn more about me, including publications & selected projects!
   - [ncj.wiki](https://www.ncj.wiki)
