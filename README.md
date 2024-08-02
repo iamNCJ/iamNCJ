@@ -31,9 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     37 mins         ███████████████████░░░░░░   76.64 %
-Markdown   9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.52 %
-Other      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
