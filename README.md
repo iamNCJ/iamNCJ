@@ -31,9 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         6 mins          ████████████▓░░░░░░░░░░░░   50.22 %
-Python       6 mins          ████████████▒░░░░░░░░░░░░   49.40 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
