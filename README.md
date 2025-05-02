@@ -17,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamncj" alt="iamncj" />
 </div>
 
-<h3 align="left">📊 Weekly development breakdown</h3>
+<h3 align="left">📊 Weekly Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
 
