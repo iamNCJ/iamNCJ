@@ -4,12 +4,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamNCJ)
 
 - 🌱 I’m currently a master student in **Zhejiang University**, majoring **Computer Science and Technology**.
-
 - ⚡ My research interests include **Computer Graphics and 3D Vision**, specifically, 3D object geometry and appearance modeling and generation.
-
-- 🚀 Learn more about me, including publications & selected projects!
-  - [chong-zeng.com](https://www.chong-zeng.com)
-
+- 🚀 Learn more about me, including publications & selected projects: [Homepage](https://www.chong-zeng.com)
 - 📖 My scholar profiles: [Google Scholar](https://scholar.google.com/citations?user=4dID7zIAAAAJ) [Semantic Scholar](https://www.semanticscholar.org/author/Chong-Zeng/2223946708)
 
 </p>
