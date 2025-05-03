@@ -14,7 +14,7 @@
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=iamncj&show_icons=true&locale=en" alt="iamncj" />
-  <img src="https://github-readme-streak-stats-omega-eight.vercel.app/?user=iamncj" alt="iamncj" />
+  <img src="https://github-readme-streak-stats-omega-eight.vercel.app/?user=iamncj&card_width=467" alt="iamncj" />
 </div>
 
 <h3 align="left">📊 Weekly Development Breakdown</h3>
