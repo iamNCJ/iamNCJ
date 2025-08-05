@@ -22,7 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash     2 mins          █████████████░░░░░░░░░░░░   51.82 %
+Python   2 mins          █████████▓░░░░░░░░░░░░░░░   38.56 %
+Text     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
 ```
 
 <!--END_SECTION:waka-->
