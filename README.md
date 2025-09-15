@@ -3,7 +3,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamNCJ)
 
-- 🌱 I'm an incoming PhD student at **Stanford University**. Before that, I received my master's degree and bachelor's degree from **Zhejiang University**.
+- 🌱 I'm a PhD student at **Stanford University**. Before that, I received my master's degree and bachelor's degree from **Zhejiang University**.
 - ⚡ My research interests include **Computer Graphics and 3D Vision**, specifically, 3D object geometry and appearance modeling and generation.
 - 🚀 Learn more about me, including publications & selected projects: [Homepage](https://www.chong-zeng.com)
 - 📖 My scholar profiles: [Google Scholar](https://scholar.google.com/citations?user=4dID7zIAAAAJ) [Semantic Scholar](https://www.semanticscholar.org/author/Chong-Zeng/2223946708)
