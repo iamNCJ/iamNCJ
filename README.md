@@ -13,7 +13,7 @@
 <h3 align="left">GitHub Stats</h3>
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamncj&show_icons=true&locale=en" alt="iamncj" />
+  <img src="https://github-readme-stats-wine-ten-72.vercel.app/api?username=iamncj&show_icons=true&locale=en" alt="iamncj" />
   <img src="https://github-readme-streak-stats-omega-eight.vercel.app/?user=iamncj&card_width=467" alt="iamncj" />
 </div>
 
