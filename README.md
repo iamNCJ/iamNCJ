@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       15 hrs 3 mins         ████████▓░░░░░░░░░░░░░░░░   34.18 %
-Markdown     10 hrs 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Blender      6 hrs 23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Rust         3 hrs 10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-JavaScript   2 hrs 28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Python       24 hrs 43 mins        ██████████░░░░░░░░░░░░░░░   39.37 %
+Markdown     14 hrs 43 mins        ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+Blender      6 hrs 31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+JavaScript   6 hrs 7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+HTML         3 hrs 30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
